@@ -1,0 +1,4 @@
+node_modules/
+deployable version/
+package-lock.json
+db/index.js
